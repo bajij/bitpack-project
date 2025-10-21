@@ -1,0 +1,14 @@
+[project]
+name = "bitpack"
+version = "0.1.0"
+description = "Bit Packing (crossing, aligned, overflow) with direct access and timing protocol"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+select = ["E","F","I","UP"]

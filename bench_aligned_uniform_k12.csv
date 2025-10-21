@@ -1,0 +1,2 @@
+format,scenario,n,raw_bits,comp_bits,ratio,t_comp_ns_median,t_decomp_ns_median,t_get_ns_avg,latency_ms,bandwidth_mbps,T_no_ms,T_yes_ms,gain_ms
+aligned,uniform,200000,6400000,3200416,0.500065,36576900,53896600,345.967,30.0,10.0,670.0,440.5151,229.48490000000004

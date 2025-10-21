@@ -1,0 +1,2 @@
+format,scenario,n,raw_bits,comp_bits,ratio,t_comp_ns_median,t_decomp_ns_median,t_get_ns_avg,latency_ms,bandwidth_mbps,T_no_ms,T_yes_ms,gain_ms
+overflow,skewed,300000,9600000,3006240,0.31315,539178400,188614900,866.559,50.0,5.0,1970.0,1379.0412999999999,590.9587
