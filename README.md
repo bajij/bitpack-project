@@ -1,6 +1,6 @@
 Aurélien JANTROY-BUZENAC
 
-Implémentation Python de Bit Packing pour compresser des tableaux d’entiers sans perdre l’accès direct au i-ème élément (get(i) en O(1)).
+Implémentation Python de Bit Packing pour compresser des tableaux d’entiers sans perdre l’accès direct au i-ème élément.
 
 Variantes :
 
